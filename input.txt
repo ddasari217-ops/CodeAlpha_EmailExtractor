@@ -1,0 +1,15 @@
+Welcome to CodeAlpha Python Internship.
+
+For technical support, contact support@codealpha.com.
+
+You can contact John at john@gmail.com
+or Priya at priya@yahoo.com.
+
+For project-related queries:
+project@codealpha.com
+
+John's email is also john@gmail.com.
+
+Additional contacts:
+admin@example.com
+hr@example.com

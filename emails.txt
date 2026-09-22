@@ -1,0 +1,6 @@
+admin@example.com
+hr@example.com
+john@gmail.com
+priya@yahoo.com
+project@codealpha.com
+support@codealpha.com
