@@ -120,6 +120,6 @@ Developed as part of the **CodeAlpha Python Programming Internship**.
 
 **Dasari Dinesh**
 
-GitHub: https://github.com/ddasari217-ops
+GitHub: https://github.com/ddasari217-ops/CodeAlpha_EmailExtractor
 
-LinkedIn: linkedin.com/in/dasari-dinesh-6b1018345
+LinkedIn: https://github.com/ddasari217-ops/CodeAlpha_EmailExtractor
